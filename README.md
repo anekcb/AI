@@ -1,1 +1,2 @@
-# AI
+# AI Projects Repository
+Welcome to the AI Projects Repository! This repository contains a curated collection of various AI projects including Natural Language Processing (NLP), Deep Learning, Generative AI, Large Language Models (LLM), and Machine Learning (ML). Each project is implemented using Python and comes with comprehensive documentation to help you get started quickly. Explore these projects to enhance your understanding and skills in the exciting field of AI. Happy coding!
